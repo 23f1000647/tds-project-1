@@ -68,3 +68,7 @@ The table below highlights users with the highest number of public repositories,
 
 ### Recommendation - 2
 Contributing to top niche skills results in more stargazers and watchers. Unique and specialized skills consistently attract a greater number of followers and watchers.
+
+### Recommendation - 3
+The overall trend for the top 5 to 7 programming languages shows that the number of repositories for each language rose consistently until 2016-2018. Since then, there has been a significant decrease in new repositories, indicating a decline in contributors in recent years. Increasing contributions in this area is anticipated to lead to a notable increase in followers and stargazers.
+![](https://github.com/23f1000647/tds-project-1/blob/main/top_7_language_trend_per_year.png)
