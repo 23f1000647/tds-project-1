@@ -21,34 +21,34 @@ Out of approximately 30,006 repositories created by 602 developers, covering 189
 
 |   Language | Repo Count  | Cumulative %  | Total Stargazers | Average Stargazers |
 | ---------- | ----------- | ------------- | ---------------- | ------------------ |
-| JavaScript | 6467        | 21.55         |  304633          |  47.11             |
-| Python     | 3513        | 33.26         |  265671          |  75.63             |
-| Go         | 1883        | 39.54         |  142227          |  75.53             |
-| TypeScript | 1696        | 45.19         |  248025          |  146.24            |
-| Ruby       | 1571        | 50.42         |  67225           |  42.79             |
-| HTML       | 1505        | 55.44         |  37013           |  24.59             |
-| Rust       | 1505        | 60.45         |  110992          |  73.75             |
-| Java       | 1418        | 65.18         |  123035          |  86.77             |
-| PHP        | 1033        | 68.62         |  48544           |  46.99             |
-| Shell      | 1013        | 72.00         |  47098           |  46.49             |
-| C++        | 969         | 75.23         |  83991           |  86.68             |
-| C          | 871         | 78.13         |  40460           |  46.45             |
+| JavaScript | 6437        | 21.51         |  304326          |  47.28             |
+| Python     | 3511        | 33.24         |  265850          |  75.72             |
+| Go         | 1885        | 39.54         |  142291          |  75.49             |
+| TypeScript | 1665        | 45.10         |  248075          |  148.99            |
+| Ruby       | 1571        | 50.35         |  67237           |  42.80             |
+| HTML       | 1506        | 55.38         |  37013           |  24.59             |
+| Rust       | 1504        | 60.41         |  111104          |  73.87             |
+| Java       | 1416        | 65.14         |  123045          |  86.90             |
+| PHP        | 1033        | 68.59         |  48560           |  47.01             |
+| Shell      | 1006        | 71.59         |  47039           |  46.76             |
+| C++        | 969         | 75.19         |  83036           |  86.72             |
+| C          | 868         | 78.09         |  40474           |  46.63             |
 
 ### Fact - 2
 The correlation between followers and the number of public repositories is low, at just 0.016, indicating that the number of repositories has little impact on follower count. However, when examining the distribution of repositories in the top 80% most popular languages, we see that users with higher follower counts tend to have over 45% of their repositories in these top languages.
 
 |     login      | # public_repos  | # followers | % top languages |
 | -------------  | --------------- | ----------- | --------------- |
-| tiangolo       | 73              | 26424       |  53.42          |
-| schacon        | 215             | 13755       |  23.26          |   
-| rwieruch       | 151             | 8616        |  49.67          |
-| shuding        | 149             | 6751        |  48.99          |
-| android10      | 79              | 6714        |  46.84          |
-| marijnh        | 54              | 6522        |  72.22          |
-| mxmnk          | 7               | 6458        |  71.43          |
-| nikic          | 110             | 6230        |  47.27          |
-| greenrobot     | 32              | 5507        |  72.73          |
-| sebastianruder | 22              | 5465        |  51.13          |
+| tiangolo       | 73              | 26440       |  53.42          |
+| schacon        | 215             | 13756       |  23.26          |   
+| rwieruch       | 151             | 8618        |  49.67          |
+| shuding        | 149             | 6755        |  48.99          |
+| android10      | 79              | 6716        |  46.84          |
+| marijnh        | 54              | 6523        |  72.22          |
+| mxmnk          | 7               | 6460        |  71.43          |
+| nikic          | 110             | 6232        |  47.27          |
+| greenrobot     | 22              | 5506        |  72.73          |
+| sebastianruder | 32              | 5466        |  51.13          |
 
 ## Recommendation
 ### Recommendation - 1
@@ -59,8 +59,8 @@ The table below highlights users with the highest number of public repositories,
 | blueyed        | 595             | 494         |  7.56           |
 | derhuerst      | 582             | 766         |  15.29          |   
 | ff6347         | 518             | 431         |  12.55          |
-| wolfv          | 492             | 583         |  3.86           |
-| mr-c           | 474             | 280         |  2.53           |
+| wolfv          | 493             | 584         |  3.85           |
+| mr-c           | 476             | 280         |  2.52           |
 | janpio         | 471             | 654         |  2.34           |
 | localheinz     | 452             | 618         |  13.27          |
 | skade          | 420             | 708         |  8.33           |
