@@ -1,7 +1,9 @@
 # tds-project-1
 
 ## Colab link
+```ruby
 https://colab.research.google.com/drive/1i9YTj98DBqgfL9umJDKXlgfEjPRQzqpf?usp=sharing
+```
 
 ## Scraping the data
 Please refer TDS_Project_1.ipynb
